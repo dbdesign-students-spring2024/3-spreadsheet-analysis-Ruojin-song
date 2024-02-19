@@ -83,7 +83,7 @@ print(counter_dic)
 As the result, the output is a dictionary which key represents year and values represents how many countries included. We found that from 1990 to 2021, the data is completed (206). Then, we decided to remove all years with countries missing. We processed the dataset in a spreadsheet Excel. Firstly, we set an indicator to determine whether the year is greater than 1990 or not. If the year is greater, we generate “keep” in another column as the indicator. If the year is smaller than 1990, we generate “delete” in the column. By automatic filter, only “delete” becomes visible in the dataset. Then, we choose all visible rows and delete them. In that case, we can clean the dataset. 
 
 Here is our [original raw data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-Ruojin-song/blob/main/data/2322814_ALL_LATEST.csv)
-, [munged data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-Ruojin-song/blob/main/data/clean_data.csv#:~:text=2322814_ALL_LATEST.csv-,clean_data,-.csv), and the spreadsheet.
+, [munged data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-Ruojin-song/blob/main/data/clean_data.csv#:~:text=2322814_ALL_LATEST.csv-,clean_data,-.csv), and the [spreadsheet](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-Ruojin-song/blob/main/data/Spreadsheet%20analysis.xlsx).
 
 ## Analysis
 ### Background
