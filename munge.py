@@ -74,7 +74,7 @@ for year in time_list:
         if (year in element.values()) and element['DIM_SEX'] == 'Total':
             counter += 1
         counter_dic[year] = counter
-
+print(counter_dic)
  
 
 # Define the folder where the CSV file will be saved
