@@ -113,7 +113,7 @@ In order to compare the tendency of female's death rate (under 5 years old) and 
 
 In order to find which country has the highest average death rate (under 5 years old) from 1990 to 2021 and which country has the lowest average death rate (under 5 years old) from 1990 to 2021, we use the function `AVERAGEIFS` first to find the average death rate of each country from 1990 to 2021. In this part, we use variables: country and sex (Total) as our conditions. Then we use the `MAX` and `MIN` functions to find the maximum and minimum values of the average data we get from the last part.
 
-In order to find how difference average death rate (under 5 years old) among 206 countries from 1990 to 2021, we use `STDEV` function to find the standard deviation of the average data we get from the last part. 
+In order to find how difference average death rate (under 5 years old) among 206 countries from 1990 to 2021, we use `STDEV` and `AVERAGE` function to find the standard deviation of the average data we get from the last part. 
 
 ### Analysis
 Based on the all statistics we get, we can analysis the data.
