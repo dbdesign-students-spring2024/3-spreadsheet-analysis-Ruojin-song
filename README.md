@@ -99,7 +99,7 @@ In addition, our analysis is based on the time period from 1990 to 2021, because
 When we mention "death rate" latter, we mean the death rate under 5 years old. 
 
 ### Purpose
-There are **four** purposes of our research:
+There are **fifth** purposes of our research:
 - Find the world's tendency of death rate (under 5 years old) from 1990 to 2021.
 - Compare the tendency of female's death rate (under 5 years old) and male's death rate (under 5 years old) from 1990 to 2021 in the world.
 - Figure out which country often keep the lowest yearly death rate  from 1990 to 2021 among all countries and which country often keep the highest yearly death rate from 1990 to 2021.
