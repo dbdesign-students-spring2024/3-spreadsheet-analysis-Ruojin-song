@@ -131,7 +131,7 @@ In this chart, we achieved our first purpose: _Find the world's tendency of deat
 
 In addition, we also achieved our second purpose: _Compare the tendency of female's death rate (under 5 years old) and male's death rate (under 5 years old) from 1990 to 2021 in the world._ We find that females are more likely to alive than males under 5 years old around the world, though the both death rates of female and death rates of male follow a descending tendency.
 
-We also achieved our third purpose: _Figure out which country often keep the lowest yearly death rate from 1990 to 2021 among all countries and which country often keep the highest yearly death rate from 1990 to 2021._ We find that the ***Niger**** is the country often keep the highest yearly death rate from 1990 to 2021 among all countries with frequency _8/31_ and ***Singapore*** is the country often keep the lowest yearly death rate with frequency _11/31_ from 1990 to 2021.
+We also achieved our third purpose: _Figure out which country often keep the lowest yearly death rate from 1990 to 2021 among all countries and which country often keep the highest yearly death rate from 1990 to 2021._ We find that the ***Niger*** is the country often keep the highest yearly death rate from 1990 to 2021 among all countries with frequency _8/31_ and ***Singapore*** is the country often keep the lowest yearly death rate with frequency _11/31_ from 1990 to 2021.
 
 Then we build a pivot table to store our data of the average death rate of each country. Here are a sample of our pivot table (In another sheet of our xlsx file):
 | Country  | Average Death Rate of All Genders (from 1990 to 2021)| 
